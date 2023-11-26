@@ -1,0 +1,13 @@
+.banner-bg {
+  background-image: url("../images/banner.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+  height: 550px;
+}
+
+.legal-section-img {
+  width: 71.798px;
+  height: 72.343px;
+  margin: auto;
+}
